@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maryam\\Desktop\\Store-Me\\ALLAH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{536983FA-8D4D-445C-8A9E-BAEBF635271F}|ALLAH.Application\\ALLAH.Application.csproj|c:\\users\\maryam\\desktop\\store-me\\allah\\allah.application\\allah.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{536983FA-8D4D-445C-8A9E-BAEBF635271F}|ALLAH.Application\\ALLAH.Application.csproj|solutionrelative:allah.application\\allah.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ALLAH.Application",
+              "DocumentMoniker": "C:\\Users\\maryam\\Desktop\\Store-Me\\ALLAH\\ALLAH.Application\\ALLAH.Application.csproj",
+              "RelativeDocumentMoniker": "ALLAH.Application\\ALLAH.Application.csproj",
+              "ToolTip": "C:\\Users\\maryam\\Desktop\\Store-Me\\ALLAH\\ALLAH.Application\\ALLAH.Application.csproj",
+              "RelativeToolTip": "ALLAH.Application\\ALLAH.Application.csproj",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-03T15:38:03.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
